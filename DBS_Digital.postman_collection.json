@@ -57,7 +57,7 @@
 								"id": "bd6bde06-2c95-4748-961b-67b394745ee9",
 								"exec": [
 									"pm.test(\"Body matches string\", function () {",
-									"    pm.expect(pm.response.text()).to.include(\"sHWETA\");",
+									"    pm.expect(pm.response.text()).to.include(\"Sunny\");",
 									"});"
 								],
 								"type": "text/javascript"
